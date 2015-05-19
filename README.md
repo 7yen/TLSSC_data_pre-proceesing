@@ -11,4 +11,4 @@ TL-SSC data pre-processing example.
 실행 방법 (한국어): https://docs.google.com/document/d/15ME9rF29b-qYL5A46iigyBlCQeS6o4a5ykeiZ3E3m3U/edit?usp=sharing
 
 ## Reference: 
-- Dongsuk Yook, Taewoo Lee, and Youngkyu Cho "Fast Sound Source Localization Using Two-Level Search Space Clustering" IEEE Transactions on Cybernetics, In Press, Feb. 2015
+- Dongsuk Yook, Taewoo Lee, and Youngkyu Cho "[Fast Sound Source Localization Using Two-Level Search Space Clustering](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7039285&sortType=asc_p_Sequence&filter=AND(p_IS_Number:6352949))" IEEE Transactions on Cybernetics, In Press, Feb. 2015
