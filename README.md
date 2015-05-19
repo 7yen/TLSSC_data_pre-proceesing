@@ -2,7 +2,7 @@
 TL-SSC data pre-processing example.
 
 ## Execution:
-- 1. Prepare simulated data: https://docs.google.com/document/d/1aGuHv4044KX1OOuIkwjr8MW1KAwxmNSQsc_OyS6I02c/edit
+- 1. Prepare simulated data: https://github.com/LeeTaewoo/gen_TLSSC_simul_data
 - 2. Download the codes: https://github.com/LeeTaewoo/TLSSC_data_pre-proceesing/archive/master.zip
 - 3. Unzip it.
 - 4. Copy the result of step 1 (i.e. TL-SSC_simul_data folder) into the unzipped folder.
