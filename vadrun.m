@@ -1,5 +1,3 @@
-% vadrun.m, 2014.8.9. Taewoo Lee
-
 % Release date: May 2015
 % Author: Taewoo Lee, (twlee@speech.korea.ac.kr)
 %
