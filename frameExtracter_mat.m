@@ -1,4 +1,3 @@
-% frameExtractor_simul_mat.m, Taewoo Lee, 2014.7.31.
 % IN: ld_vadlist.m, enframe.m
 % OUT: VADed_dat.mat
 
